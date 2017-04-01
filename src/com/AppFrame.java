@@ -7,11 +7,11 @@ public class AppFrame extends JFrame{
 	private static final long serialVersionUID = 1L;
 
 	/**
-	 * ¹¹Ôì·½·¨
+	 * æ„é€ æ–¹æ³•
 	 */
 	public AppFrame() {
 
-		setTitle("Îå×ÓÆå");
+		setTitle("äº”å­æ£‹");
 		setSize(500, 500);
 		setLocationRelativeTo(null);
 		setResizable(false);
